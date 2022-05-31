@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 # Slicing the string word into 3 parts.
+
 word = "Holberton"
 word_first_3 = word[0:3]
 word_last_2 = word[-2:]
