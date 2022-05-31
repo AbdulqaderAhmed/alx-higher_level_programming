@@ -2,4 +2,4 @@
 
 # Printing the number 98 and the string "Battery street"
 number = 98
-print(f"{number} Battery street")
+print(f"{number:d} Battery street")
